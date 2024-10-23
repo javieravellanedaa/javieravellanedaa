@@ -7,10 +7,10 @@
 I'm a Lead Data Engineer with a deep-rooted passion for the world of data. I thrive on unraveling the complexities of data to uncover actionable insights and drive meaningful change. I'm on a perpetual journey of learning and growth, constantly seeking out new challenges and opportunities to expand my knowledge and skills in data engineering.
 
 ## 🛠️ Skills
-- **Languages**: Python, SQL, Java, Scala
+- **Languages**: Python, SQL, C#, Scala
 - **Frameworks/Libraries**: Apache Spark, Hadoop, Kafka, Pandas, TensorFlow
-- **Tools & Technologies**: AWS, Docker, Kubernetes, Git, Jenkins
-- **Databases**: PostgreSQL, MongoDB, Cassandra
+- **Tools & Technologies**:Azure,Docker, Kubernetes, Git, Jenkins
+- **Databases**: SQL Server, Oracle, PostgreSQL, MongoDB, Cassandra
 - **Other**: Machine Learning, Data Visualization, ETL Pipelines
 
 ## 🎯 Projects
